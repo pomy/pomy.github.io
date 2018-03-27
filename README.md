@@ -1,1 +1,0 @@
-# pomy.github.io
