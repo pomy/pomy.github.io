@@ -96,41 +96,41 @@ body {
 .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
-    background-color: #f5f5f5;
-    border-color: #d95e40;
+    background-color: #f5f5f5 !important;
+    border-color: #d95e40 !important;
  }
 		  
   .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5 !important;
     border-color: #f2992e;
 }		  
 
 		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5 !important;
     border-color: #d95e40;
 }		  
 
 		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5 !important;
     border-color: #d95e40;
 }		  
 
 		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626text-article
     text-shadow: none;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5 !important;
     border-color: #d95e40;
 }		  
 
 		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5 !important;
     border-color: #d95e40;
 }		  
