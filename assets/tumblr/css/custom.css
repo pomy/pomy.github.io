@@ -93,43 +93,42 @@ body {
 .frontcard {min-height:360px;}
 
 /* article menu color */
-.nav-list > .text-article > a:hover, .nav-list > .activephoto > a:hover, .nav-list > .activephoto > a:focus {
+.nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
     background-color: #f5f5f5;
     border-color: #d95e40;
-	display:none !important;
-}
+ }
 		  
-  .nav-list > .text-article > a:hover, .nav-list > .activequote > a:hover, .nav-list > .activequote > a:focus {
+  .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
     background-color: #f5f5f5;
     border-color: #f2992e;
 }		  
 
-		    .nav-list > .text-article > a:hover, .nav-list > .activephoto > a:hover, .nav-list > .activephoto > a:focus {
+		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
     background-color: #f5f5f5;
     border-color: #d95e40;
 }		  
 
-		    .nav-list > .text-article > a:hover, .nav-list > .activephoto > a:hover, .nav-list > .activephoto > a:focus {
+		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
     background-color: #f5f5f5;
     border-color: #d95e40;
 }		  
 
-		    .nav-list > .text-article > a:hover, .nav-list > .activephoto > a:hover, .nav-list > .activephoto > a:focus {
-    color: #262626;
+		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
+    color: #262626text-article
     text-shadow: none;
     background-color: #f5f5f5;
     border-color: #d95e40;
 }		  
 
-		    .nav-list > .text-article > a:hover, .nav-list > .activephoto > a:hover, .nav-list > .activephoto > a:focus {
+		    .nav-list > .text-article > a:hover, .nav-list > .text-article > a:hover, .nav-list > .text-article > a:focus {
     color: #262626;
     text-shadow: none;
     background-color: #f5f5f5;
