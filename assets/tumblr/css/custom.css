@@ -13,7 +13,7 @@
       padding-top: 15px;
       color:  #ffffff !important; 
  }
-
+.bg-quote {background-color:#f2992e !important;}
 
  .hide-chat, .hide-photos, .hide-audio, .hide-article,  {display:none !important;}
 .hide-audio  {display: none !important;} 
