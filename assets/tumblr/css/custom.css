@@ -20,6 +20,7 @@
 .hide-article  {display: none !important;} 
 .hide-photos {display: none !important;} 
 .hide-chat {display: none !important;} 
+.hide-quote {display: none !important;} 
 			/*    {block:HomePage}
 .pagination {
  display: none;  
