@@ -14,7 +14,7 @@
  }
 
 
- .hide-chat, .hide-photos, .hide-audio, .hide-article {display:none !important;}
+ .hide-chat, .hide-photos, .hide-audio, .hide-article, .hide-link {display:none !important;}
 			    
 			/*    {block:HomePage}
 .pagination {
