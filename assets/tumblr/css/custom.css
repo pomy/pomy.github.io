@@ -17,11 +17,18 @@
 
  .hide-chat, .hide-photos, .hide-audio, .hide-article {display:none !important;}
 			    
-			    {block:HomePage}
+			/*    {block:HomePage}
 .pagination {
  display: none;  
 }
+ {/block:HomePage} */
+
+{block:HomePage}
+div[class~=pagination] {
+    display: none;
+}
  {/block:HomePage}
+
 
 body {
         padding-top:  0px;
