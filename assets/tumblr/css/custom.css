@@ -9,6 +9,11 @@
     
 */
 
+.card .card-heading.simple {
+     color: #ffffff !important;
+ }
+
+
  .hide-chat, .hide-photos, .hide-audio, .hide-article {display:none !important;}
 			    
 			    {block:HomePage}
