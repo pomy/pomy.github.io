@@ -11,10 +11,11 @@
 
 .card .card-heading.simple {
       padding-top: 15px;
+      color:  #fff !important; 
  }
 
 
- .hide-chat, .hide-photos, .hide-audio, .hide-article, {display:none !important;}
+ .hide-chat, .hide-photos, .hide-audio, .hide-article,  {display:none !important;}
 			    
 			/*    {block:HomePage}
 .pagination {
