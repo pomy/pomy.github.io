@@ -9,7 +9,13 @@
     
 */
 
- 
+ .hide-chat, .hide-photos, .hide-audio, .hide-article {display:none !important;}
+			    
+			    {block:HomePage}
+.pagination {
+    display: none;
+}
+ {/block:HomePage}
 
 body {
         padding-top:  0px;
