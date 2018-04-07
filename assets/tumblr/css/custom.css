@@ -18,6 +18,8 @@
  .hide-chat, .hide-photos, .hide-audio, .hide-article,  {display:none !important;}
 .hide-audio  {display: none !important;} 
 .hide-article  {display: none !important;} 
+.hide-photos {display: none !important;} 
+
 			/*    {block:HomePage}
 .pagination {
  display: none;  
