@@ -8,6 +8,25 @@
     + Copyright 2018, Kreative Biz, Inc.
     
 */
+/*span*/.iframe-wrapper {
+	width: 50%;
+	height: 0;
+	padding: 40% 0 0;
+	display: block;
+	position: relative;
+	border: 5px solid blue;
+}
+
+	
+/*span*/.iframe-wrapper iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
 
 .media {
   position: relative;
