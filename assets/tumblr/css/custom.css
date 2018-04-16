@@ -9,6 +9,16 @@
     
 */
 
+
+.hidelinklink-link, .hidelinkportfolio-portfolio, .hidelinkportfolio-portfolio  a {
+         
+          pointer-events: none !important;
+  cursor: text  !important;
+  text-decoration: none  !important;
+  color: #999999  !important;
+         
+     }
+
 .video-container {
 	position: relative;
 	padding-bottom: 56.25%;
