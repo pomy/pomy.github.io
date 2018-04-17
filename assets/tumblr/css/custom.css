@@ -8,6 +8,10 @@
     + Copyright 2018, Kreative Biz, Inc.
     
 */
+.comment__header .author a {
+    font-weight: 700;
+    color: black !important;
+}
 p.text-success {color: black !important;}
 
 .hidelinklink-link, .hidelinkportfolio-portfolio, .hidelinkportfolio-portfolio  a {
