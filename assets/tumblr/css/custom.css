@@ -9,6 +9,10 @@
     
 */
 
+.table-bordered {
+     border-collapse: collapse !important;
+  }
+
 .breadcrumb {
       -webkit-border-radius: 0px !important;  
     -moz-border-radius: 0px !important;
