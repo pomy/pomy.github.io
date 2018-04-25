@@ -10,7 +10,10 @@
 */
 
   .hideurdu-urdu, .hide-urdu  {display:none !important;}
-
+ .urdupost   h2  {
+      color: white !important;
+     
+} 
 
 .table-bordered {
      border-collapse: collapse !important;
