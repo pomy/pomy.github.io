@@ -9,6 +9,9 @@
     
 */
 
+  .hideurdu-urdu, .hide-urdu  {display:none !important;}
+
+
 .table-bordered {
      border-collapse: collapse !important;
   }
