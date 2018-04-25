@@ -9,6 +9,50 @@
     
 */
 
+/* urdu post */
+
+@font-face {
+	font-family: "NAFEES";
+	src: url('http://static.tumblr.com/ana0us6/1uxmbdl66/nafees-tahreer-naskh-regular-1.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:"8900";
+  src: url("http://static.tumblr.com/ana0us6/Grembdl49/8900.eot");
+  src: local("â˜º"),
+    url("http://static.tumblr.com/ana0us6/rTjmbdl5i/8900.woff") format("woff"),
+    url("http://static.tumblr.com/ana0us6/DK1mbdl4u/8900.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:"8900b";
+  src: url("http://static.tumblr.com/ana0us6/Fktmbdlf2/8900b.eot");
+  src: local("â˜º"),
+    url("http://static.tumblr.com/ana0us6/wlRmbdlgx/8900b.woff") format("woff"),
+    url("http://static.tumblr.com/ana0us6/ex5mbdlgd/8900b.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+/*---------------------------------------------------------------------------------*/
+/* GENERAL */
+/*---------------------------------------------------------------------------------*/
+.urdupost { margin:0px 50px 0px 50px;  }
+  
+  
+.urdupost p{ font-family:"Jameel Noori Nastaleeq", Jameel Noori Nastaleeq, Alvi Nastaleeq, Nafees Tahreer Naskh,  "NAFEES", Nafees Web Naskh, Urdu Naskh Asiatype, Tahoma, Arial, Helvetica, sans-serif;  font-size: 24px;
+  line-height: 36px;  color:#000000; text-align:justify; direction:rtl; }
+  
+  .urdupost h2{ font-family:"Jameel Noori Nastaleeq", Jameel Noori Nastaleeq, Alvi Nastaleeq, Nafees Tahreer Naskh,  "NAFEES", Nafees Web Naskh, Urdu Naskh Asiatype, Tahoma, Arial, Helvetica, sans-serif;  font-size: 34px;
+  line-height: 36px;  color:#000000; text-align:justify; direction:rtl;}
+  
+
+/* end urdu post*/ 
   .hideurdu-urdu, .hide-urdu  {display:none !important;}
  .urdupost   h2  {
       color: white !important;
