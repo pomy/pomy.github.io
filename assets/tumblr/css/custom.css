@@ -13,25 +13,25 @@
 
 @font-face {
 	font-family: "NAFEES";
-	src: url('http://static.tumblr.com/ana0us6/1uxmbdl66/nafees-tahreer-naskh-regular-1.ttf') format('truetype');
+	src: url('https://static.tumblr.com/ana0us6/1uxmbdl66/nafees-tahreer-naskh-regular-1.ttf') format('truetype');
 }
 
 @font-face {
   font-family:"8900";
-  src: url("http://static.tumblr.com/ana0us6/Grembdl49/8900.eot");
+  src: url("https://static.tumblr.com/ana0us6/Grembdl49/8900.eot");
   src: local("â˜º"),
-    url("http://static.tumblr.com/ana0us6/rTjmbdl5i/8900.woff") format("woff"),
-    url("http://static.tumblr.com/ana0us6/DK1mbdl4u/8900.ttf") format("truetype");
+    url("https://static.tumblr.com/ana0us6/rTjmbdl5i/8900.woff") format("woff"),
+    url("https://static.tumblr.com/ana0us6/DK1mbdl4u/8900.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family:"8900b";
-  src: url("http://static.tumblr.com/ana0us6/Fktmbdlf2/8900b.eot");
+  src: url("https://static.tumblr.com/ana0us6/Fktmbdlf2/8900b.eot");
   src: local("â˜º"),
-    url("http://static.tumblr.com/ana0us6/wlRmbdlgx/8900b.woff") format("woff"),
-    url("http://static.tumblr.com/ana0us6/ex5mbdlgd/8900b.ttf") format("truetype");
+    url("https://static.tumblr.com/ana0us6/wlRmbdlgx/8900b.woff") format("woff"),
+    url("https://static.tumblr.com/ana0us6/ex5mbdlgd/8900b.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
