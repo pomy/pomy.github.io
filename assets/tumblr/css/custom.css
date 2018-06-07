@@ -274,7 +274,7 @@ body {
 /* le Quotes side menu */
 
 
-.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activeq-quotes > a, .nav-list > .activeq-quotes > a:hover, .nav-list > .activeq-quotes > a:focus {
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activeq-quote > a, .nav-list > .activeq-quote > a:hover, .nav-list > .activeq-quote > a:focus {
     color: #262626 !important;
     text-shadow: none  !important;
     background-color: #f5f5f5  !important;
