@@ -249,7 +249,7 @@ body {
 /* le article side menu */
 
 
-.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activeta-notes > a, .nav-list > .activeta-notes > a:hover, .nav-list > .activeta-notes > a:focus {
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activea-notes > a, .nav-list > .activea-notes > a:hover, .nav-list > .activea-notes > a:focus {
     color: #262626 !important;
     text-shadow: none  !important;
     background-color: #f5f5f5  !important;
