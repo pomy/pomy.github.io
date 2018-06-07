@@ -286,7 +286,7 @@ body {
 /* le Links side menu */
 
 
-.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activetl-links > a, .nav-list > .activetl-links > a:hover, .nav-list > .activetl-links > a:focus {
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activetl-link > a, .nav-list > .activetl-link > a:hover, .nav-list > .activetl-link > a:focus {
     color: #262626 !important;
     text-shadow: none  !important;
     background-color: #f5f5f5  !important;
