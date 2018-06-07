@@ -237,7 +237,7 @@ body {
 /* le testimonials side menu */
 
 
-.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .active-testimonials > a, .nav-list > .active-testimonials > a:hover, .nav-list > .active-testimonials > a:focus {
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activet-testimonials > a, .nav-list > .activet-testimonials > a:hover, .nav-list > .activet-testimonials > a:focus {
     color: #262626 !important;
     text-shadow: none  !important;
     background-color: #f5f5f5  !important;
