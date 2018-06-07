@@ -243,3 +243,92 @@ body {
     background-color: #f5f5f5  !important;
     border-color: #427fed  !important;
 }
+
+
+
+/* le article side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activeta-notes > a, .nav-list > .activeta-notes > a:hover, .nav-list > .activeta-notes > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
+
+
+
+
+/* le Photos side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activeta-photos > a, .nav-list > .activeta-photos > a:hover, .nav-list > .activeta-photos > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
+
+
+
+/* le Quotes side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activetq-quotes > a, .nav-list > .activetq-quotes > a:hover, .nav-list > .activetq-quotes > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
+
+
+
+/* le Links side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activetl-links > a, .nav-list > .activetl-links > a:hover, .nav-list > .activetl-links > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
+
+
+
+
+/* le Chat side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activetc-chat > a, .nav-list > .activetc-chat > a:hover, .nav-list > .activetc-chat > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
+
+
+
+
+/* le Audio side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activeaudio-audio > a, .nav-list > .activeaudio-audio > a:hover, .nav-list > .activeaudio-audio > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
+
+
+
+
+
+/* le Video side menu */
+
+
+.nav-list > li > a:hover, .nav-list > li > a:focus, .nav-list > .activev-video > a, .nav-list > .activev-video > a:hover, .nav-list > .activev-video > a:focus {
+    color: #262626 !important;
+    text-shadow: none  !important;
+    background-color: #f5f5f5  !important;
+    border-color: #427fed  !important;
+}
