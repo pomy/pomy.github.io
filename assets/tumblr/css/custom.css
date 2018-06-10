@@ -37,7 +37,8 @@
 }
 
 
-.hidelinkbookmark-bookmark a{
+
+.hidelinkbookmark-bookmark  {
          
           pointer-events: none !important;
   cursor: text  !important;
