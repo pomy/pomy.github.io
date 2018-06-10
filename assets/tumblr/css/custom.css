@@ -37,7 +37,14 @@
 }
 
 
-
+.hidelinkbookmark-bookmark a{
+         
+          pointer-events: none !important;
+  cursor: text  !important;
+  text-decoration: none  !important;
+  color: #999999  !important;
+         
+     }
 
 /*---------------------------------------------------------------------------------*/
 /* GENERAL */
