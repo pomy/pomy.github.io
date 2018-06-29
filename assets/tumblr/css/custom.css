@@ -38,7 +38,9 @@
 .table-striped > tbody > tr:nth-child(even) > td a, .table-striped > tbody > tr:nth-child(even) > th a {
    color: white !important;
 }
-
+.table-striped > tbody > tr:nth-child(even) > td, .table-striped > tbody > tr:nth-child(odd) > th {
+   color: black !important;
+}
 .spltag { color: black !important;}
 
 
