@@ -40,8 +40,8 @@
 
 .hidelinkbookmark-bookmark, .hidelinkaffiliates-affiliates, .hidelinkrandom-random  {
          
-          pointer-events: none !important;
-  cursor: text  !important;
+         /* pointer-events: none !important;
+  cursor: text  !important; */
   text-decoration: none  !important;
   color: #999999  !important;
          
