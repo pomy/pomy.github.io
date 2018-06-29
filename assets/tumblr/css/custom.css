@@ -38,7 +38,7 @@
 
 
 
-.hidelinkbookmark-bookmark  {
+.hidelinkbookmark-bookmark, .hidelinkaffiliates-affiliates  {
          
           pointer-events: none !important;
   cursor: text  !important;
