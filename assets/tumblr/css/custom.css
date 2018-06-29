@@ -89,7 +89,7 @@
 }
 p.text-success {color: black !important;}
 
-.hidelinklink-link, .hidelinkportfolio-portfolio, .hidelinkportfolio-portfolio, .hidelinkbookmark-bookmark, .hidelinkrandom  a {
+.hidelinklink-link, .hidelinkportfolio-portfolio, .hidelinkportfolio-portfolio, .hidelinkbookmark-bookmark, .hidelinkrandom-random  a {
          
           pointer-events: none !important;
   cursor: text  !important;
