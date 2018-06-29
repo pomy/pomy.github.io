@@ -38,7 +38,7 @@
 
 
 
-.hidelinkbookmark-bookmark, .hidelinkaffiliates-affiliates, .hidelinkrandom  {
+.hidelinkbookmark-bookmark, .hidelinkaffiliates-affiliates, .hidelinkrandom-random  {
          
           pointer-events: none !important;
   cursor: text  !important;
