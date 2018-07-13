@@ -38,6 +38,11 @@
 .table-striped > tbody > tr:nth-child(even) > td a, .table-striped > tbody > tr:nth-child(even) > th a {
    color: white !important;
 }
+/* white p for green bg */ 
+.table-striped > tbody > tr:nth-child(even) > td a, .table-striped > tbody > tr:nth-child(even) > th p {
+   color: white !important;
+}
+/* white p for green bg */ 
 .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
    color: black !important;
 }
