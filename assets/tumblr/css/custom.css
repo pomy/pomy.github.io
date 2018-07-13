@@ -43,7 +43,10 @@
    color: #ffffff !important;
    
 }
-
+.table-striped > tbody > tr:nth-child(even) > td span, .table-striped > tbody > tr:nth-child(even) > th span {
+   color: #ffffff !important;
+   
+}
 /* white p for green bg */ 
 .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
    color: black !important;
