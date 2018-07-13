@@ -39,9 +39,11 @@
    color: white !important;
 }
 /* white p for green bg */ 
-.table-striped > tbody > tr:nth-child(even) > td a, .table-striped > tbody > tr:nth-child(even) > th p {
-   color: white !important;
+.table-striped > tbody > tr:nth-child(even) > td p, .table-striped > tbody > tr:nth-child(even) > th  {
+   color: #ffffff !important;
+   
 }
+
 /* white p for green bg */ 
 .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
    color: black !important;
