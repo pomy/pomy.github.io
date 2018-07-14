@@ -67,7 +67,8 @@
 /* GENERAL */
 /*---------------------------------------------------------------------------------*/
 .urdupost { margin:0px 50px 0px 50px;  }
-  
+   .askmeall- {display:none !important;}
+
   
 .urdupost p{ font-family:"Jameel Noori Nastaleeq", Jameel Noori Nastaleeq, Alvi Nastaleeq, Nafees Tahreer Naskh,  "NAFEES", Nafees Web Naskh, Urdu Naskh Asiatype, Tahoma, Arial, Helvetica, sans-serif;  font-size: 24px;
   line-height: 36px;  color:#000000; text-align:justify; direction:rtl; }
