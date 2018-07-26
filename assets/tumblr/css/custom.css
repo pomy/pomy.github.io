@@ -54,7 +54,7 @@
 .spltag { color: black !important;}
 
 
-.hidelinkbookmark-bookmark, .hidelinkaffiliates-affiliates, .hidelinkrandom-random, .hidelinkuseful-useful, .hidelinkads-ads  {
+.hidelinkbookmark-bookmark, .hidelinkaffiliates-affiliates, .hidelinkrandom-random, .hidelinkads-ads, .hidelinkuseful-useful, .hidelinkfriends-friends, .hidelinknetwork-network, .hidelinkdeals-deals,  .hidelinkupdates-updates  {
          
          /* pointer-events: none !important;
   cursor: text  !important; */
@@ -111,7 +111,7 @@
 }
 p.text-success {color: black !important;}
 
-.hidelinklink-link, .hidelinkportfolio-portfolio, .hidelinkportfolio-portfolio, .hidelinkbookmark-bookmark, .hidelinkuseful-useful, .hidelinkads-ads .hidelinkrandom-random  a {
+.hidelinklink-link, .hidelinkportfolio-portfolio, .hidelinkportfolio-portfolio, .hidelinkbookmark-bookmark, .hidelinkads-ads, .hidelinkuseful-useful, .hidelinkfriends-friends, .hidelinknetwork-network, .hidelinkdeals-deals,  .hidelinkupdates-updates, delinkrandom-random  a {
          
           /* pointer-events: none !important;
   cursor: text  !important; */
