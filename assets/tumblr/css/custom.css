@@ -63,7 +63,12 @@
          
      }
 
-.hideportfoliotag-portfolio {display:none !important;}
+.hideportfoliotag-portfolio, .hideportfoliotag-link, .hideportfoliotag-bookmark, .hideportfoliotag-random, .hideportfoliotag-chat, .hideportfoliotag-useful
+.hideportfoliotag-useful, .hideportfoliotag-friends, .hideportfoliotag-network, .hideportfoliotag-affiliates, .hideportfoliotag-affiliates, 
+.hideportfoliotag-deals, .hideportfoliotag-deals, .hideportfoliotag-updates
+
+
+{display:none !important;}
 
 /* audio post */
 .playbox {max-height:30px !important;}
