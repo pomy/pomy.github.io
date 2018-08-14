@@ -63,11 +63,7 @@
          
      }
 
-.hideportfoliotag-portfolio, .hideportfoliotag-link, .hideportfoliotag-bookmark, .hideportfoliotag-random, .hideportfoliotag-chat, .hideportfoliotag-useful
-.hideportfoliotag-ads, .hideportfoliotag-friends, .hideportfoliotag-network, .hideportfoliotag-affiliates, 
-.hideportfoliotag-deals, .hideportfoliotag-deals, .hideportfoliotag-updates
-
-
+.hideportfoliotag-portfolio, .hideportfoliotag-link, .hideportfoliotag-bookmark, .hideportfoliotag-random, .hideportfoliotag-chat, .hideportfoliotag-useful, .hideportfoliotag-ads, .hideportfoliotag-friends, .hideportfoliotag-network, .hideportfoliotag-affiliates, .hideportfoliotag-deals, .hideportfoliotag-updates
 {display:none !important;}
 
 /* audio post */
