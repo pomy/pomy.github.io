@@ -71,9 +71,7 @@
 .playbox {max-height:30px !important;}
 /* audio post */
 
-.photo-slideshow .pxu-photo img {
-    
-    border-bottom: 5px solid orange !important;
+
 
 /*---------------------------------------------------------------------------------*/
 /* GENERAL */
@@ -244,6 +242,7 @@ body {
     height: auto;
     margin:0 !important;
     padding:0 !important;
+    border-bottom: 5px solid orange !important;
  }
  
  .pp-photsetdesc {
