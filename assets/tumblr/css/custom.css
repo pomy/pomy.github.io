@@ -71,6 +71,10 @@
 .playbox {max-height:30px !important;}
 /* audio post */
 
+.photo-slideshow .pxu-photo img {
+    
+    border-bottom: 5px solid orange !important;
+
 /*---------------------------------------------------------------------------------*/
 /* GENERAL */
 /*---------------------------------------------------------------------------------*/
