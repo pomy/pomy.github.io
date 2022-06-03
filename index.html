@@ -49,7 +49,7 @@
       </button>
       <!-- End Toggle -->
 
-      <nav class="navbar-nav-wrap-col collapse navbar-collapse" id="navbarNavMenuLightEg">
+      <nav class="navbar-nav-wrap-col collapse navbar-collapse d-flex justify-content-center" id="navbarNavMenuLightEg">
         <!-- Navbar -->
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -1165,45 +1165,7 @@ c6.206-6.206,16.937-6.206,23.079,0C371.459,134.765,373.333,144.656,366.028,152.0
         // =======================================================
         new HSGoTo('.js-go-to')
 
-
-        // INITIALIZATION OF SWIPER
-        // =======================================================
-        var sliderThumbs = new Swiper('.js-swiper-thumbs', {
-          watchSlidesVisibility: true,
-          watchSlidesProgress: true,
-          history: false,
-          breakpoints: {
-            480: {
-              slidesPerView: 2,
-              spaceBetween: 15,
-            },
-            768: {
-              slidesPerView: 3,
-              spaceBetween: 15,
-            },
-            1024: {
-              slidesPerView: 3,
-              spaceBetween: 15,
-            },
-          },
-          on: {
-            'afterInit': function (swiper) {
-              swiper.el.querySelectorAll('.js-swiper-pagination-progress-body-helper')
-              .forEach($progress => $progress.style.transitionDuration = `${swiper.params.autoplay.delay}ms`)
-            }
-          }
-        });
-
-        var sliderMain = new Swiper('.js-swiper-main', {
-          effect: 'fade',
-          autoplay: true,
-          loop: true,
-          thumbs: {
-            swiper: sliderThumbs
-          }
-        })
-
-
+ 
         // INITIALIZATION OF TEXT ANIMATION (TYPING)
         // =======================================================
         const typed = HSCore.components.HSTyped.init('.js-typedjs')
